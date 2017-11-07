@@ -15,8 +15,8 @@ Attribute VB_Name = "CutText"
 '源码作者：Landriesnidis
 '发布时间：2014-6-24
 '联系方式：332007893（QQ）
-'电子邮箱：Landriesnidis@yeah.net（网易邮箱）   332007893@qq.com（QQ邮箱）
-'新浪博客: http://blog.sina.com.cn/u/3201544725 (Jiesonsoft源码共享新浪博客)
+'电子邮箱：Landriesnidis@yeah.net
+'CSDN博客: http://blog.csdn.net/lgj123xj/
 '==============================================
 
 
